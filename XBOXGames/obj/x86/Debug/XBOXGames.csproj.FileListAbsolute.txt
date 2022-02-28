@@ -1,0 +1,450 @@
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\App.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\AllGames.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\8BallPool.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\AngryBirds2.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\Asphalt8Airborne.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\Asphalt9Legends.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\CallOfDutyBlackOps.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\CallOfDutyInfiniteWarfare.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\CandyCrushJelly.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\CandyCrushSoda.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\ChessUltra.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\CSRRacing.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\CSRRacing2.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\DreamLeagueSoccer2019.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\Episode.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\FIFA18.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\FIFA19.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\FIFA20.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\FruitNinja.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\GTA5.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\GTASanAndreas.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\GTAViceCity.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\Matatu.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\MineCraft.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\NBA2K18.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\NBA2K19.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\NeedForSpeed2019.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\NeedForSpeedMostWanted.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\NeedForSpeedPayback.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\NeedForSpeedTheRun.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\PES18.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\RagingThunder.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\RagingThunder2.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\Scrabble.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\SpiderSolitaire.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\SubwaySurfers.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Games\TempleRun.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\MainPage.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\XBOXGames.xr.xml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\XBOXGames.exe
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\XBOXGames.pdb
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\resources.pri
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\AppxManifest.xml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Core\XBOXGames.exe
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\XBOXGames.build.appxrecipe
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\System.Runtime.dll
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\XBOXGames.csproj.AssemblyReference.cache
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\App.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\App.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\AllGames.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\AllGames.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\8BallPool.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\8BallPool.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\AngryBirds2.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\AngryBirds2.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt8Airborne.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt8Airborne.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt9Legends.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt9Legends.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyBlackOps.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyBlackOps.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyInfiniteWarfare.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyInfiniteWarfare.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushJelly.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushJelly.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushSoda.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushSoda.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\ChessUltra.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\ChessUltra.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing2.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing2.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\DreamLeagueSoccer2019.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\DreamLeagueSoccer2019.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Episode.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Episode.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA18.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA18.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA19.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA19.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA20.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA20.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FruitNinja.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FruitNinja.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTA5.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTA5.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTASanAndreas.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTASanAndreas.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTAViceCity.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTAViceCity.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Matatu.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Matatu.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\MineCraft.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\MineCraft.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K18.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K18.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K19.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K19.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeed2019.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeed2019.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedMostWanted.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedMostWanted.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedPayback.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedPayback.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedTheRun.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedTheRun.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\PES18.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\PES18.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder2.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder2.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Scrabble.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Scrabble.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SpiderSolitaire.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SpiderSolitaire.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SubwaySurfers.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SubwaySurfers.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\TempleRun.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\TempleRun.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\MainPage.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\App.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\AllGames.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\8BallPool.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\AngryBirds2.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt8Airborne.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt9Legends.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyBlackOps.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyInfiniteWarfare.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushJelly.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushSoda.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\ChessUltra.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing2.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\DreamLeagueSoccer2019.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Episode.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA18.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA19.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA20.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FruitNinja.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTA5.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTASanAndreas.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTAViceCity.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Matatu.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\MineCraft.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K18.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K19.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeed2019.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedMostWanted.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedPayback.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedTheRun.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\PES18.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder2.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Scrabble.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SpiderSolitaire.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SubwaySurfers.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\TempleRun.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\MainPage.xaml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\App.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\AllGames.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\8BallPool.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\AngryBirds2.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt8Airborne.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt9Legends.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyBlackOps.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyInfiniteWarfare.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushJelly.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushSoda.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\ChessUltra.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing2.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\DreamLeagueSoccer2019.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Episode.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA18.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA19.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA20.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FruitNinja.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTA5.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTASanAndreas.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTAViceCity.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Matatu.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\MineCraft.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K18.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K19.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeed2019.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedMostWanted.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedPayback.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedTheRun.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\PES18.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder2.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Scrabble.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SpiderSolitaire.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SubwaySurfers.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\Games\TempleRun.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\MainPage.xbf
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\XBOXGames.csproj.CoreCompileInputs.cache
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\XBOXGames.csproj.CopyComplete
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\XBOXGames.exe
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\XBOXGames.pdb
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\priconfig.xml
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\resources.resfiles
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\pri.resfiles
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\qualifiers.txt
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\yvonn\Desktop\SCHOOL\APTECH\Semester3\C#\WindowsApplications\XBOXGames\XBOXGames\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424707200000000.json
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\App.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\AllGames.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\8BallPool.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\AngryBirds2.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\Asphalt8Airborne.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\Asphalt9Legends.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\CallOfDutyBlackOps.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\CallOfDutyInfiniteWarfare.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\CandyCrushJelly.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\CandyCrushSoda.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\ChessUltra.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\CSRRacing.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\CSRRacing2.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\DreamLeagueSoccer2019.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\Episode.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\FIFA18.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\FIFA19.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\FIFA20.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\FruitNinja.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\GTA5.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\GTASanAndreas.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\GTAViceCity.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\Matatu.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\MineCraft.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\NBA2K18.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\NBA2K19.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\NeedForSpeed2019.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\NeedForSpeedMostWanted.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\NeedForSpeedPayback.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\NeedForSpeedTheRun.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\PES18.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\RagingThunder.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\RagingThunder2.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\Scrabble.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\SpiderSolitaire.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\SubwaySurfers.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Games\TempleRun.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\MainPage.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\XBOXGames.xr.xml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\XBOXGames.exe
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\XBOXGames.pdb
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\resources.pri
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\AppxManifest.xml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Core\XBOXGames.exe
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\XBOXGames.build.appxrecipe
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\System.Runtime.dll
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\XBOXGames.csproj.AssemblyReference.cache
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\App.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\App.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\AllGames.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\AllGames.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\8BallPool.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\8BallPool.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\AngryBirds2.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\AngryBirds2.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt8Airborne.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt8Airborne.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt9Legends.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt9Legends.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyBlackOps.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyBlackOps.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyInfiniteWarfare.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyInfiniteWarfare.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushJelly.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushJelly.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushSoda.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushSoda.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\ChessUltra.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\ChessUltra.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing2.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing2.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\DreamLeagueSoccer2019.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\DreamLeagueSoccer2019.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Episode.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Episode.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA18.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA18.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA19.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA19.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA20.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA20.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FruitNinja.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FruitNinja.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTA5.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTA5.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTASanAndreas.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTASanAndreas.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTAViceCity.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTAViceCity.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Matatu.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Matatu.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\MineCraft.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\MineCraft.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K18.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K18.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K19.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K19.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeed2019.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeed2019.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedMostWanted.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedMostWanted.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedPayback.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedPayback.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedTheRun.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedTheRun.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\PES18.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\PES18.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder2.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder2.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Scrabble.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Scrabble.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SpiderSolitaire.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SpiderSolitaire.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SubwaySurfers.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SubwaySurfers.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\TempleRun.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\TempleRun.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\MainPage.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\App.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\AllGames.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\8BallPool.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\AngryBirds2.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt8Airborne.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt9Legends.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyBlackOps.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyInfiniteWarfare.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushJelly.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushSoda.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\ChessUltra.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing2.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\DreamLeagueSoccer2019.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Episode.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA18.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA19.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA20.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FruitNinja.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTA5.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTASanAndreas.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTAViceCity.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Matatu.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\MineCraft.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K18.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K19.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeed2019.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedMostWanted.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedPayback.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedTheRun.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\PES18.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder2.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Scrabble.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SpiderSolitaire.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SubwaySurfers.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\TempleRun.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\MainPage.xaml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\App.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\AllGames.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\8BallPool.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\AngryBirds2.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt8Airborne.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Asphalt9Legends.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyBlackOps.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CallOfDutyInfiniteWarfare.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushJelly.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CandyCrushSoda.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\ChessUltra.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\CSRRacing2.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\DreamLeagueSoccer2019.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Episode.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA18.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA19.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FIFA20.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\FruitNinja.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTA5.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTASanAndreas.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\GTAViceCity.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Matatu.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\MineCraft.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K18.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NBA2K19.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeed2019.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedMostWanted.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedPayback.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\NeedForSpeedTheRun.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\PES18.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\RagingThunder2.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\Scrabble.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SpiderSolitaire.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\SubwaySurfers.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\Games\TempleRun.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\MainPage.xbf
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\XBOXGames.csproj.CoreCompileInputs.cache
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\XBOXGames.csproj.CopyComplete
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\XBOXGames.exe
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\XBOXGames.pdb
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\priconfig.xml
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\resources.resfiles
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\pri.resfiles
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\qualifiers.txt
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Yvonne Kusiima\Desktop\SCHOOL\APTECH\Semester 3\C#\Windows Applications\XBOXGames\XBOXGames\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424707200000000.json

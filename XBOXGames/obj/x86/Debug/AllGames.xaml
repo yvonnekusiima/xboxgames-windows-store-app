@@ -1,0 +1,245 @@
+﻿<Page
+    x:Class="XBOXGames.AllGames"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:XBOXGames"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <ScrollViewer>
+
+        <Grid>
+            
+            <Canvas Height="1080" VerticalAlignment="Top" Width="1920" Background="#FF171616" Grid.RowSpan="2">
+
+                <!--SideBar-->
+                <Canvas x:ConnectionId='2' x:Name="sidebar" Height="1080" Width="40" Background="#FF272525">
+                    <Button x:ConnectionId='38' x:Name="back" Canvas.Left="10" Canvas.Top="10" Height="20" Width="20"                    Background="Transparent">
+                        <Image Source="Assets\icons\backicon.png" Height="20" Width="20" Margin="-10,-6" />
+                    </Button>
+                </Canvas>
+
+                <!--Application Name-->
+                <TextBlock Canvas.Left="150" TextWrapping="Wrap" Text="XBOX" Canvas.Top="15" Height="40" Width="100" FontFamily="Raleway" FontWeight="Bold" FontSize="30" Foreground="Red"/>
+                <TextBlock Canvas.Left="230" TextWrapping="Wrap" Text="Games" Canvas.Top="15" Height="40" Width="120" FontFamily="Raleway" FontWeight="Bold" FontSize="30" Foreground="White"/>
+
+                <!--FIFA 20-->
+                <Button x:ConnectionId='3' x:Name="fifa20" Height="150" Width="150" Canvas.Left="150" Canvas.Top="80"                     >
+                    <Image Source="Assets\images\fifa20\fifa20.png" Height="150" Width="150" Margin="-10,-6"/>
+                </Button>
+                <TextBlock Canvas.Left="150" TextWrapping="Wrap" Text="FIFA 20" Canvas.Top="235" Width="150" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--NBA 2K19-->
+                <Button x:ConnectionId='4' x:Name="nba19" Height="150" Width="150" Canvas.Left="320" Canvas.Top="80"                    >
+                    <Image Source="Assets\images\nba19\nba2k19.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Left="320" Canvas.Top="235" TextWrapping="Wrap" Text="NBA 2K19" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Need for Speed: 2019-->
+                <Button x:ConnectionId='5' x:Name="needforspeed2019" Height="150" Width="150" Canvas.Left="490" Canvas.Top="80"                               >
+                    <Image Source="Assets\images\needforspeed\needforspeed2019.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Left="490" Canvas.Top="235" TextWrapping="Wrap" Text="Need for Speed 2019" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--FIFA 19-->
+                <Button x:ConnectionId='6' x:Name="fifa19" Height="150" Width="150" Canvas.Left="660" Canvas.Top="80"                     >
+                    <Image Source="Assets\images\fifa19\fifa19.png" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="235" Canvas.Left="660" TextWrapping="Wrap" Text="FIFA 19" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Need for Speed: The Run-->
+                <Button x:ConnectionId='7' x:Name="needforspeedtherun" Height="150" Width="150" Canvas.Left="830" Canvas.Top="80"                                 >
+                    <Image Source="Assets\images\needforspeed\needforspeedtherun.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="235" Canvas.Left="830" TextWrapping="Wrap" Text="Need For Speed: TheRun" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Raging Thunder 2-->
+                <Button x:ConnectionId='8' x:Name="ragingthunder2" Height="150" Width="150" Canvas.Left="1000" Canvas.Top="80"                             >
+                    <Image Source="Assets\images\ragingthunder\ragingthunder2.png" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="235" Canvas.Left="1000" TextWrapping="Wrap" Text="Raging Thunder 2" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Need for Speed: Payback-->
+                <Button x:ConnectionId='9' x:Name="needforspeedpayback" Height="150" Width="150" Canvas.Left="1170" Canvas.Top="80"                                  >
+                    <Image Source="Assets\images\needforspeed\needforspeedpayback.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="235" Canvas.Left="1170" TextWrapping="Wrap" Text="Need for Speed: Payback" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Call Of Duty: Inifnite Warfare-->
+                <Button x:ConnectionId='10' x:Name="callofdutyinfinitewarfare" Height="150" Width="150" Canvas.Left="150" Canvas.Top="280"                                        >
+                    <Image Source="Assets\images\callofduty\callofdutyinfinitewarfare.jpeg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="435" Canvas.Left="150" TextWrapping="Wrap" Text="Call Of Duty: Inifnite Warfare" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--FIFA 18-->
+                <Button x:ConnectionId='11' x:Name="fifa18" Height="150" Width="150" Canvas.Left="320" Canvas.Top="280"                     >
+                    <Image Source="Assets\images\fifa18\fifa18.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="435" Canvas.Left="320" TextWrapping="Wrap" Text="FIFA 18" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--GTA 5-->
+                <Button x:ConnectionId='12' x:Name="gta5" Height="150" Width="150" Canvas.Left="490" Canvas.Top="280"                   >
+                    <Image Source="Assets\images\gta5\gta5.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="435" Canvas.Left="490" TextWrapping="Wrap" Text="GTA 5" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Raging Thunder-->
+                <Button x:ConnectionId='13' x:Name="ragingthunder" Height="150" Width="150" Canvas.Left="660" Canvas.Top="280"                            >
+                    <Image Source="Assets\images\ragingthunder\ragingthunder.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="435" Canvas.Left="660" TextWrapping="Wrap" Text="Raging Thunder" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--GTA SanAndreas-->
+                <Button x:ConnectionId='14' x:Name="gtasanandreas" Height="150" Width="150" Canvas.Left="830" Canvas.Top="280"                    >
+                    <Image Source="Assets\images\gtasa\gtasa.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="435" Canvas.Left="830" TextWrapping="Wrap" Text="GTA SanAndreas" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Call Of Duty: Black Ops-->
+                <Button x:ConnectionId='15' x:Name="callofdutyblackops" Height="150" Width="150" Canvas.Left="1000" Canvas.Top="280"                                 >
+                    <Image Source="Assets\images\callofduty\callofdutyblackops.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="435" Canvas.Left="1000" TextWrapping="Wrap" Text="Call Of Duty: Black Ops" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Candy Crush: Jelly-->
+                <Button x:ConnectionId='16' x:Name="candycrushjelly" Height="150" Width="150" Canvas.Left="1170" Canvas.Top="280"                              >
+                    <Image Source="Assets\images\candycrushjelly\candycrushjelly.png" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Height="40" Canvas.Top="435" Canvas.Left="1170" TextWrapping="Wrap" Text="Candy Crush: Jelly" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--NBA 18-->
+                <Button x:ConnectionId='17' x:Name="nba18" Height="150" Width="150" Canvas.Left="150" Canvas.Top="480"                    >
+                    <Image Source="Assets\images\nba18\nba2k18.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="635" Canvas.Left="150" TextWrapping="Wrap" Text="NBA 18" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Candy Crush: Soda-->
+                <Button x:ConnectionId='18' x:Name="candycrushsoda" Height="150" Width="150" Canvas.Left="320" Canvas.Top="480"                             >
+                    <Image Source="Assets\images\candycrushsoda\candycrushsoda.png" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="635" Canvas.Left="320" TextWrapping="Wrap" Text="Candy Crush: Soda" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Chess Ultra-->
+                <Button x:ConnectionId='19' x:Name="chessultra" Height="150" Width="150" Canvas.Left="490" Canvas.Top="480"                         >
+                    <Image Source="Assets\images\chess\chessultra.png" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="635" Canvas.Left="490" TextWrapping="Wrap" Text="Chess Ultra" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Spider Solitaire: Card Game-->
+                <Button x:ConnectionId='20' x:Name="spidersolitairecardgame" Height="150" Width="150" Canvas.Left="660" Canvas.Top="480"                              >
+                    <Image Source="Assets\images\spidersolitaire\spidersolitaire.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="635" Canvas.Left="660" TextWrapping="Wrap" Text="Spider Solitaire: Card Game" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Temple Run-->
+                <Button x:ConnectionId='21' x:Name="templerun" Height="150" Width="150" Canvas.Left="830" Canvas.Top="480"                        >
+                    <Image Source="Assets\images\templerun\templerun.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="635" Canvas.Left="830" TextWrapping="Wrap" Text="Temple Run" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Subway Surfers-->
+                <Button x:ConnectionId='22' x:Name="subwaysurfers" Height="150" Width="150" Canvas.Left="1000" Canvas.Top="480"                            >
+                    <Image Source="Assets\images\subwaysurfers\subwaysurfers.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="635" Canvas.Left="1000" TextWrapping="Wrap" Text="Subway Surfers" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--PES 18-->
+                <Button x:ConnectionId='23' x:Name="pes18" Height="150" Width="150" Canvas.Left="1170" Canvas.Top="480"                    >
+                    <Image Source="Assets\images\pes18\pes18.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="635" Canvas.Left="1170" TextWrapping="Wrap" Text="PES 2018" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Asphlat 9: Legends-->
+                <Button x:ConnectionId='24' x:Name="asphalt9legends" Height="150" Width="150" Canvas.Left="150" Canvas.Top="680"                              >
+                    <Image Source="Assets\images\asphalt9\asphalt9legends.png" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="835" Canvas.Left="150" TextWrapping="Wrap" Text="Asphlat 9: Legends" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--8 Ball Pool-->
+                <Button x:ConnectionId='25' x:Name="_8ballpool" Height="150" Width="150" Canvas.Left="320" Canvas.Top="680"                         >
+                    <Image Source="Assets\images\8ballpool\8ballpool.png" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="835" Canvas.Left="320" TextWrapping="Wrap" Text="8 Ball Pool" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Dream League Soccer 2019-->
+                <Button x:ConnectionId='26' x:Name="dreamleaguesoccer2019" Height="150" Width="150" Canvas.Left="490" Canvas.Top="680"                                    >
+                    <Image Source="Assets\images\dreamleaguesoccer\dreamleaguesoccer.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="835" Canvas.Left="490" TextWrapping="Wrap" Text="Dream League Soccer 2019" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Episode-->
+                <Button x:ConnectionId='27' x:Name="episode" Height="150" Width="150" Canvas.Left="660" Canvas.Top="680"                      >
+                    <Image Source="Assets\images\episode\episode.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="835" Canvas.Left="660" TextWrapping="Wrap" Text="Episode: Choose Your Story" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Angry Birds 2-->
+                <Button x:ConnectionId='28' x:Name="angrybirds2" Height="150" Width="150" Canvas.Left="830" Canvas.Top="680"                          >
+                    <Image Source="Assets\images\angrybirds\angrybirds2.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="835" Canvas.Left="830" TextWrapping="Wrap" Text="Angry Birds 2" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Matatu-->
+                <Button x:ConnectionId='29' x:Name="matatu" Height="150" Width="150" Canvas.Left="1000" Canvas.Top="680"                     >
+                    <Image Source="Assets\images\matatu\matatu.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="835" Canvas.Left="1000" TextWrapping="Wrap" Text="Matatu" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--CSR Racing 2-->
+                <Button x:ConnectionId='30' x:Name="csrracing2" Height="150" Width="150" Canvas.Left="1170" Canvas.Top="680"                         >
+                    <Image Source="Assets\images\csrracing2\csrracing2.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="835" Canvas.Left="1170" TextWrapping="Wrap" Text="CSR Racing 2" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--GTA Vice City-->
+                <Button x:ConnectionId='31' x:Name="gtavicecity" Height="150" Width="150" Canvas.Left="150" Canvas.Top="880"                          >
+                    <Image Source="Assets\images\gtavicecity\gtavicecity.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="1035" Canvas.Left="150" TextWrapping="Wrap" Text="GTA Vice City" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Need For Speed: Most Wanted-->
+                <Button x:ConnectionId='32' x:Name="needforspeedmostwanted" Height="150" Width="150" Canvas.Left="320" Canvas.Top="880"                                     >
+                    <Image Source="Assets\images\needforspeed\needforspeedmostwanted.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="1035" Canvas.Left="320" TextWrapping="Wrap" Text="Need For Speed: Most Wanted" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--CSR Racing-->
+                <Button x:ConnectionId='33' x:Name="csrracing" Height="150" Width="150" Canvas.Left="490" Canvas.Top="880"                        >
+                    <Image Source="Assets\images\csrracing\csrracing.png" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="1035" Canvas.Left="490" TextWrapping="Wrap" Text="CSR Racing" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Scrabble-->
+                <Button x:ConnectionId='34' x:Name="scrabble" Height="150" Width="150" Canvas.Left="660" Canvas.Top="880"                       >
+                    <Image Source="Assets\images\scrabble\scrabble.png" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="1035" Canvas.Left="660" TextWrapping="Wrap" Text="Scrabble" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Asphalt 8: Airborne-->
+                <Button x:ConnectionId='35' x:Name="asphalt8airborne" Height="150" Width="150" Canvas.Left="830" Canvas.Top="880"                               >
+                    <Image Source="Assets\images\asphalt8\asphalt8airborne.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="1035" Canvas.Left="830" TextWrapping="Wrap" Text="Asphalt 8: Airborne" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Fruit Ninja-->
+                <Button x:ConnectionId='36' x:Name="fruitninja" Height="150" Width="150" Canvas.Left="1000" Canvas.Top="880"                         >
+                    <Image Source="Assets\images\fruitninja\fruitninja.png" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="1035" Canvas.Left="1000" TextWrapping="Wrap" Text="Fruit Ninja" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+                <!--Minecraft-->
+                <Button x:ConnectionId='37' x:Name="minecraft" Height="150" Width="150" Canvas.Left="1170" Canvas.Top="880"                        >
+                    <Image Source="Assets\images\minecraft\minecraft.jpg" Height="150" Width="150" Margin="-10,-16"/>
+                </Button>
+                <TextBlock Width="150" Canvas.Top="1035" Canvas.Left="1170" TextWrapping="Wrap" Text="Minecraft" FontFamily="Poppins" Foreground="White" FontSize="13"/>
+
+            </Canvas>
+
+        </Grid>
+
+    </ScrollViewer>
+
+</Page>
+

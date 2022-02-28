@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Children" />
+      <RootMethod Name="GetRowSpan" />
+      <RootMethod Name="SetRowSpan" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Canvas">
+      <RootProperty Name="Height" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootMethod Name="GetLeft" />
+      <RootMethod Name="SetLeft" />
+      <RootMethod Name="GetTop" />
+      <RootMethod Name="SetTop" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="TextAlignment" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Foreground" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Image">
+      <RootProperty Name="Source" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="XBOXGames.AllGames" />
+    <RootType FullName="Windows.UI.Xaml.Controls.MediaElement">
+      <RootProperty Name="Name" />
+      <RootProperty Name="AutoPlay" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Source" />
+    </RootType>
+    <RootType FullName="XBOXGames.Games._8BallPool" />
+    <RootType FullName="XBOXGames.Games.AngryBirds2" />
+    <RootType FullName="XBOXGames.Games.Asphalt8Airborne" />
+    <RootType FullName="XBOXGames.Games.Asphalt9Legends" />
+    <RootType FullName="XBOXGames.Games.CallOfDutyBlackOps" />
+    <RootType FullName="XBOXGames.Games.CallOfDutyInfiniteWarfare" />
+    <RootType FullName="XBOXGames.Games.CandyCrushJelly" />
+    <RootType FullName="XBOXGames.Games.CandyCrushSoda" />
+    <RootType FullName="XBOXGames.Games.ChessUltra" />
+    <RootType FullName="XBOXGames.Games.CSRRacing" />
+    <RootType FullName="XBOXGames.Games.CSRRacing2" />
+    <RootType FullName="XBOXGames.Games.DreamLeagueSoccer2019" />
+    <RootType FullName="XBOXGames.Games.Episode" />
+    <RootType FullName="XBOXGames.Games.FIFA18" />
+    <RootType FullName="XBOXGames.Games.FIFA19" />
+    <RootType FullName="XBOXGames.Games.FIFA20" />
+    <RootType FullName="XBOXGames.Games.FruitNinja" />
+    <RootType FullName="XBOXGames.Games.GTA5" />
+    <RootType FullName="XBOXGames.Games.GTASanAndreas" />
+    <RootType FullName="XBOXGames.Games.GTAViceCity" />
+    <RootType FullName="XBOXGames.Games.Matatu" />
+    <RootType FullName="XBOXGames.Games.MineCraft" />
+    <RootType FullName="XBOXGames.Games.NBA2K18" />
+    <RootType FullName="XBOXGames.Games.NBA2K19" />
+    <RootType FullName="XBOXGames.Games.NeedForSpeed2019" />
+    <RootType FullName="XBOXGames.Games.NeedForSpeedMostWanted" />
+    <RootType FullName="XBOXGames.Games.NeedForSpeedPayback" />
+    <RootType FullName="XBOXGames.Games.NeedForSpeedTheRun" />
+    <RootType FullName="XBOXGames.Games.PES18" />
+    <RootType FullName="XBOXGames.Games.RagingThunder" />
+    <RootType FullName="XBOXGames.Games.RagingThunder2" />
+    <RootType FullName="XBOXGames.Games.Scrabble" />
+    <RootType FullName="XBOXGames.Games.SpiderSolitaire" />
+    <RootType FullName="XBOXGames.Games.SubwaySurfers" />
+    <RootType FullName="XBOXGames.Games.TempleRun" />
+    <RootType FullName="XBOXGames.MainPage" />
+  </Roots.RootTypes>
+</Roots>

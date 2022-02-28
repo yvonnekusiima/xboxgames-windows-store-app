@@ -1,0 +1,669 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{360A25DB-B492-4A2F-862B-26A8D06DC256}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>XBOXGames</RootNamespace>
+    <AssemblyName>XBOXGames</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion Condition=" '$(TargetPlatformVersion)' == '' ">10.0.19041.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WindowsXamlEnableOverview>true</WindowsXamlEnableOverview>
+    <AppxPackageSigningEnabled>false</AppxPackageSigningEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM64'">
+    <OutputPath>bin\ARM64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="AllGames.xaml.cs">
+      <DependentUpon>AllGames.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\8BallPool.xaml.cs">
+      <DependentUpon>8BallPool.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\AngryBirds2.xaml.cs">
+      <DependentUpon>AngryBirds2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\Asphalt8Airborne.xaml.cs">
+      <DependentUpon>Asphalt8Airborne.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\Asphalt9Legends.xaml.cs">
+      <DependentUpon>Asphalt9Legends.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\CallOfDutyBlackOps.xaml.cs">
+      <DependentUpon>CallOfDutyBlackOps.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\CallOfDutyInfiniteWarfare.xaml.cs">
+      <DependentUpon>CallOfDutyInfiniteWarfare.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\CandyCrushJelly.xaml.cs">
+      <DependentUpon>CandyCrushJelly.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\CandyCrushSoda.xaml.cs">
+      <DependentUpon>CandyCrushSoda.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\ChessUltra.xaml.cs">
+      <DependentUpon>ChessUltra.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\CSRRacing.xaml.cs">
+      <DependentUpon>CSRRacing.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\CSRRacing2.xaml.cs">
+      <DependentUpon>CSRRacing2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\DreamLeagueSoccer2019.xaml.cs">
+      <DependentUpon>DreamLeagueSoccer2019.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\Episode.xaml.cs">
+      <DependentUpon>Episode.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\FIFA18.xaml.cs">
+      <DependentUpon>FIFA18.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\FIFA19.xaml.cs">
+      <DependentUpon>FIFA19.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\FIFA20.xaml.cs">
+      <DependentUpon>FIFA20.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\FruitNinja.xaml.cs">
+      <DependentUpon>FruitNinja.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\GTA5.xaml.cs">
+      <DependentUpon>GTA5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\GTASanAndreas.xaml.cs">
+      <DependentUpon>GTASanAndreas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\GTAViceCity.xaml.cs">
+      <DependentUpon>GTAViceCity.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\Matatu.xaml.cs">
+      <DependentUpon>Matatu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\MineCraft.xaml.cs">
+      <DependentUpon>MineCraft.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\NBA2K18.xaml.cs">
+      <DependentUpon>NBA2K18.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\NBA2K19.xaml.cs">
+      <DependentUpon>NBA2K19.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\NeedForSpeed2019.xaml.cs">
+      <DependentUpon>NeedForSpeed2019.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\NeedForSpeedMostWanted.xaml.cs">
+      <DependentUpon>NeedForSpeedMostWanted.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\NeedForSpeedPayback.xaml.cs">
+      <DependentUpon>NeedForSpeedPayback.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\NeedForSpeedTheRun.xaml.cs">
+      <DependentUpon>NeedForSpeedTheRun.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\PES18.xaml.cs">
+      <DependentUpon>PES18.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\RagingThunder.xaml.cs">
+      <DependentUpon>RagingThunder.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\RagingThunder2.xaml.cs">
+      <DependentUpon>RagingThunder2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\Scrabble.xaml.cs">
+      <DependentUpon>Scrabble.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\SpiderSolitaire.xaml.cs">
+      <DependentUpon>SpiderSolitaire.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\SubwaySurfers.xaml.cs">
+      <DependentUpon>SubwaySurfers.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Games\TempleRun.xaml.cs">
+      <DependentUpon>TempleRun.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\BadgeLogo.scale-100.png" />
+    <Content Include="Assets\BadgeLogo.scale-125.png" />
+    <Content Include="Assets\BadgeLogo.scale-150.png" />
+    <Content Include="Assets\BadgeLogo.scale-200.png" />
+    <Content Include="Assets\BadgeLogo.scale-400.png" />
+    <Content Include="Assets\icons\backicon.png" />
+    <Content Include="Assets\icons\carticon.png" />
+    <Content Include="Assets\icons\forwardicon.png" />
+    <Content Include="Assets\icons\homeicon.jpg" />
+    <Content Include="Assets\icons\homeicon.png" />
+    <Content Include="Assets\icons\pauseicon.png" />
+    <Content Include="Assets\icons\pcicon.png" />
+    <Content Include="Assets\icons\playicon.png" />
+    <Content Include="Assets\icons\shareicon.png" />
+    <Content Include="Assets\icons\star.png" />
+    <Content Include="Assets\icons\star2.png" />
+    <Content Include="Assets\icons\usericon.png" />
+    <Content Include="Assets\icons\xboxbadgelogo.scale-400.png" />
+    <Content Include="Assets\icons\xboxicon.scale.png" />
+    <Content Include="Assets\icons\xboxicon.targetsize-256.png" />
+    <Content Include="Assets\icons\xboxmediumtile.png" />
+    <Content Include="Assets\icons\xboxpackageicon.scale-100.png" />
+    <Content Include="Assets\icons\xboxtaskbaricon.png" />
+    <Content Include="Assets\icons\xboxtilelargetile.scale-200.png" />
+    <Content Include="Assets\icons\xboxwidetile.png" />
+    <Content Include="Assets\images\8ballpool\8ballpool-copy.png" />
+    <Content Include="Assets\images\8ballpool\8ballpool.png" />
+    <Content Include="Assets\images\8ballpool\8ballpool2.jpg" />
+    <Content Include="Assets\images\8ballpool\8ballpoolscreenshot1.png" />
+    <Content Include="Assets\images\8ballpool\8ballpoolscreenshot2.jpg" />
+    <Content Include="Assets\images\angrybirds\angrybirds2-copy.jpg" />
+    <Content Include="Assets\images\angrybirds\angrybirds2.jpg" />
+    <Content Include="Assets\images\angrybirds\angrybirds2screenshot1.jpg" />
+    <Content Include="Assets\images\angrybirds\angrybirds2screenshot2.jpg" />
+    <Content Include="Assets\images\asphalt8\asphalt8airborne-copy.jpg" />
+    <Content Include="Assets\images\asphalt8\asphalt8airborne.jpg" />
+    <Content Include="Assets\images\asphalt8\asphalt8airbornescreenshot1.jpg" />
+    <Content Include="Assets\images\asphalt8\asphalt8airbornescreenshot2.jpeg" />
+    <Content Include="Assets\images\asphalt9\asphalt9legends-copy.jpg" />
+    <Content Include="Assets\images\asphalt9\asphalt9legends.png" />
+    <Content Include="Assets\images\asphalt9\asphalt9screenshot1.jpg" />
+    <Content Include="Assets\images\asphalt9\asphalt9screenshot2.png" />
+    <Content Include="Assets\images\callofduty\callofdutyblackops-copy.jpg" />
+    <Content Include="Assets\images\callofduty\callofdutyblackops.jpg" />
+    <Content Include="Assets\images\callofduty\callofdutyblackopsscreenshot1.jpg" />
+    <Content Include="Assets\images\callofduty\callofdutyblackopsscreenshot2.jpg" />
+    <Content Include="Assets\images\callofduty\callofdutyinfinitewarfare-copy.jpeg" />
+    <Content Include="Assets\images\callofduty\callofdutyinfinitewarfare.jpeg" />
+    <Content Include="Assets\images\callofduty\callofdutyinfinitewarfarescreenshot1.jpg" />
+    <Content Include="Assets\images\callofduty\callofdutyinfinitewarfarescreenshot2.jpg" />
+    <Content Include="Assets\images\candycrushjelly\candycrushjelly-copy.png" />
+    <Content Include="Assets\images\candycrushjelly\candycrushjelly.png" />
+    <Content Include="Assets\images\candycrushjelly\candycrushjellyscreenshot1.jpg" />
+    <Content Include="Assets\images\candycrushjelly\candycrushscreenshot2.jpg" />
+    <Content Include="Assets\images\candycrushsoda\candycrushscreenshot2.jpg" />
+    <Content Include="Assets\images\candycrushsoda\candycrushsoda-copy.png" />
+    <Content Include="Assets\images\candycrushsoda\candycrushsoda.png" />
+    <Content Include="Assets\images\candycrushsoda\candycrushsodascreenshot1.png" />
+    <Content Include="Assets\images\chess\chessscreenshot1.jpg" />
+    <Content Include="Assets\images\chess\chessscreenshot2.jpg" />
+    <Content Include="Assets\images\chess\chessultra-copy.png" />
+    <Content Include="Assets\images\chess\chessultra.png" />
+    <Content Include="Assets\images\csrracing2\csrracing2-copy.jpg" />
+    <Content Include="Assets\images\csrracing2\csrracing2.jpg" />
+    <Content Include="Assets\images\csrracing2\csrracing2screenshot1.jpg" />
+    <Content Include="Assets\images\csrracing2\csrracing2screenshot2.jpg" />
+    <Content Include="Assets\images\csrracing\csrracing-copy.png" />
+    <Content Include="Assets\images\csrracing\csrracing.png" />
+    <Content Include="Assets\images\csrracing\csrracingscreenshot1.jpg" />
+    <Content Include="Assets\images\csrracing\csrracingscreenshot2.jpg" />
+    <Content Include="Assets\images\dreamleaguesoccer\dreamleaguesoccer-copy.jpg" />
+    <Content Include="Assets\images\dreamleaguesoccer\dreamleaguesoccer.jpg" />
+    <Content Include="Assets\images\dreamleaguesoccer\dreamleaguesoccerscreenshot1.jpg" />
+    <Content Include="Assets\images\dreamleaguesoccer\dreamleaguesoccerscreenshot2.jpg" />
+    <Content Include="Assets\images\episode\episdoe3.png" />
+    <Content Include="Assets\images\episode\episode-copy.jpg" />
+    <Content Include="Assets\images\episode\episode.jpg" />
+    <Content Include="Assets\images\episode\episode2.jpg" />
+    <Content Include="Assets\images\episode\episodescreenshot1.png" />
+    <Content Include="Assets\images\episode\episodescreenshot2.jpg" />
+    <Content Include="Assets\images\fifa18\fifa18-copy.jpg" />
+    <Content Include="Assets\images\fifa18\fifa18.jpg" />
+    <Content Include="Assets\images\fifa18\fifa18screenshot1.jpg" />
+    <Content Include="Assets\images\fifa18\fifa18screenshot2.jpg" />
+    <Content Include="Assets\images\fifa19\fifa19-copy.png" />
+    <Content Include="Assets\images\fifa19\fifa19.png" />
+    <Content Include="Assets\images\fifa19\fifa19screenshot1.jpg" />
+    <Content Include="Assets\images\fifa19\fifa19screenshot2.jpg" />
+    <Content Include="Assets\images\fifa20\fifa20-copy.png" />
+    <Content Include="Assets\images\fifa20\fifa20.png" />
+    <Content Include="Assets\images\fifa20\fifa20screenshot1.jpg" />
+    <Content Include="Assets\images\fifa20\fifa20screenshot2.jpg" />
+    <Content Include="Assets\images\fruitninja\fruitninja-copy.png" />
+    <Content Include="Assets\images\fruitninja\fruitninja.png" />
+    <Content Include="Assets\images\fruitninja\fruitninjascreenshot1.jpg" />
+    <Content Include="Assets\images\fruitninja\fruitninjascreenshot2.png" />
+    <Content Include="Assets\images\gta5\gta5-1.jpg" />
+    <Content Include="Assets\images\gta5\gta5-2.jpg" />
+    <Content Include="Assets\images\gta5\gta5-3.jpg" />
+    <Content Include="Assets\images\gta5\gta5-copy.jpg" />
+    <Content Include="Assets\images\gta5\gta5.jpg" />
+    <Content Include="Assets\images\gta5\gtascreenshot1.jpg" />
+    <Content Include="Assets\images\gta5\gtascreenshot2.jpg" />
+    <Content Include="Assets\images\gtasa\gtasa-1.jpg" />
+    <Content Include="Assets\images\gtasa\gtasa-2.jpg" />
+    <Content Include="Assets\images\gtasa\gtasa-copy.jpg" />
+    <Content Include="Assets\images\gtasa\gtasa.jpg" />
+    <Content Include="Assets\images\gtasa\gtascreenshot1.jpg" />
+    <Content Include="Assets\images\gtasa\gtascreenshot2.jpg" />
+    <Content Include="Assets\images\gtavicecity\gtascreenshot1.jpg" />
+    <Content Include="Assets\images\gtavicecity\gtascreenshot2.jpg" />
+    <Content Include="Assets\images\gtavicecity\gtavcscreenshot.jpg" />
+    <Content Include="Assets\images\gtavicecity\gtavicecity-copy.jpg" />
+    <Content Include="Assets\images\gtavicecity\gtavicecity.jpg" />
+    <Content Include="Assets\images\matatu\matatu-copy.jpg" />
+    <Content Include="Assets\images\matatu\matatu.jpg" />
+    <Content Include="Assets\images\matatu\matatuscreenshot1.jpg" />
+    <Content Include="Assets\images\matatu\matatuscreenshot2.jpg" />
+    <Content Include="Assets\images\minecraft\minecraft-copy.jpg" />
+    <Content Include="Assets\images\minecraft\minecraft.jpg" />
+    <Content Include="Assets\images\minecraft\minecraftscreenshot1.png" />
+    <Content Include="Assets\images\minecraft\minecraftscreenshot2.jpg" />
+    <Content Include="Assets\images\nba18\nba2k18-copy.jpg" />
+    <Content Include="Assets\images\nba18\nba2k18.jpg" />
+    <Content Include="Assets\images\nba18\nba2k18screenshot1.jpg" />
+    <Content Include="Assets\images\nba18\nba2k18screenshot2.jpeg" />
+    <Content Include="Assets\images\nba19\nba2k19-copy.jpg" />
+    <Content Include="Assets\images\nba19\nba2k19.jpg" />
+    <Content Include="Assets\images\nba19\nba2k19screenshot1.jpg" />
+    <Content Include="Assets\images\nba19\nba2k19screenshot2.jpg" />
+    <Content Include="Assets\images\needforspeed\needforspeed2019-copy.jpg" />
+    <Content Include="Assets\images\needforspeed\needforspeed2019.jpg" />
+    <Content Include="Assets\images\needforspeed\needforspeedmostwanted-copy.jpg" />
+    <Content Include="Assets\images\needforspeed\needforspeedmostwanted.jpg" />
+    <Content Include="Assets\images\needforspeed\needforspeedpayback-copy.jpg" />
+    <Content Include="Assets\images\needforspeed\needforspeedpayback.jpg" />
+    <Content Include="Assets\images\needforspeed\needforspeedscreenshot1.jpg" />
+    <Content Include="Assets\images\needforspeed\needforspeedscreenshot2.jpg" />
+    <Content Include="Assets\images\needforspeed\needforspeedtherun-copy.jpg" />
+    <Content Include="Assets\images\needforspeed\needforspeedtherun.jpg" />
+    <Content Include="Assets\images\needforspeed\needforspeedundercover.jpg" />
+    <Content Include="Assets\images\pes18\pes18-copy.jpg" />
+    <Content Include="Assets\images\pes18\pes18.jpg" />
+    <Content Include="Assets\images\pes18\pes18screenshot1.jpg" />
+    <Content Include="Assets\images\pes18\pes18screenshot2.jpg" />
+    <Content Include="Assets\images\ragingthunder\ragingthunder-copy.jpg" />
+    <Content Include="Assets\images\ragingthunder\ragingthunder.jpg" />
+    <Content Include="Assets\images\ragingthunder\ragingthunder2-copy.png" />
+    <Content Include="Assets\images\ragingthunder\ragingthunder2.png" />
+    <Content Include="Assets\images\ragingthunder\ragingthunderscreenshot1.jpg" />
+    <Content Include="Assets\images\ragingthunder\ragingthunderscreenshot2.jpg" />
+    <Content Include="Assets\images\scrabble\scrabble-copy.png" />
+    <Content Include="Assets\images\scrabble\scrabble.png" />
+    <Content Include="Assets\images\scrabble\scrabblescreenshot1.jpg" />
+    <Content Include="Assets\images\scrabble\scrabblescreenshot2.png" />
+    <Content Include="Assets\images\spidersolitaire\spidersolitaire-copy.jpg" />
+    <Content Include="Assets\images\spidersolitaire\spidersolitaire.jpg" />
+    <Content Include="Assets\images\spidersolitaire\spidersolitairescreenshot1.jpg" />
+    <Content Include="Assets\images\spidersolitaire\spidersolitairescreenshot2.jpg" />
+    <Content Include="Assets\images\splashscreen\xboxsplashscreen.scale-200.png" />
+    <Content Include="Assets\images\subwaysurfers\subwaysurfers-copy.jpg" />
+    <Content Include="Assets\images\subwaysurfers\subwaysurfers.jpg" />
+    <Content Include="Assets\images\subwaysurfers\subwaysurferscreenshot1.jpg" />
+    <Content Include="Assets\images\subwaysurfers\subwaysurferscreenshot2.jpg" />
+    <Content Include="Assets\images\templerun\templerun-copy.jpg" />
+    <Content Include="Assets\images\templerun\templerun.jpg" />
+    <Content Include="Assets\images\templerun\templerunscreenshot1.jpg" />
+    <Content Include="Assets\images\templerun\templerunscreenshot2.png" />
+    <Content Include="Assets\LargeTile.scale-100.png" />
+    <Content Include="Assets\LargeTile.scale-125.png" />
+    <Content Include="Assets\LargeTile.scale-150.png" />
+    <Content Include="Assets\LargeTile.scale-200.png" />
+    <Content Include="Assets\LargeTile.scale-400.png" />
+    <Content Include="Assets\SmallTile.scale-100.png" />
+    <Content Include="Assets\SmallTile.scale-125.png" />
+    <Content Include="Assets\SmallTile.scale-150.png" />
+    <Content Include="Assets\SmallTile.scale-200.png" />
+    <Content Include="Assets\SmallTile.scale-400.png" />
+    <Content Include="Assets\SplashScreen.scale-100.png" />
+    <Content Include="Assets\SplashScreen.scale-125.png" />
+    <Content Include="Assets\SplashScreen.scale-150.png" />
+    <Content Include="Assets\SplashScreen.scale-200.png" />
+    <Content Include="Assets\SplashScreen.scale-400.png" />
+    <Content Include="Assets\Square150x150Logo.scale-100.png" />
+    <Content Include="Assets\Square150x150Logo.scale-125.png" />
+    <Content Include="Assets\Square150x150Logo.scale-150.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square150x150Logo.scale-400.png" />
+    <Content Include="Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png" />
+    <Content Include="Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png" />
+    <Content Include="Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png" />
+    <Content Include="Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png" />
+    <Content Include="Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png" />
+    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-16.png" />
+    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-24.png" />
+    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-256.png" />
+    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-32.png" />
+    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-48.png" />
+    <Content Include="Assets\Square44x44Logo.scale-100.png" />
+    <Content Include="Assets\Square44x44Logo.scale-125.png" />
+    <Content Include="Assets\Square44x44Logo.scale-150.png" />
+    <Content Include="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.scale-400.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-16.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-256.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-32.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-48.png" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
+    <Content Include="Assets\StoreLogo.scale-125.png" />
+    <Content Include="Assets\StoreLogo.scale-150.png" />
+    <Content Include="Assets\StoreLogo.scale-200.png" />
+    <Content Include="Assets\StoreLogo.scale-400.png" />
+    <Content Include="Assets\videos\8ballpool.mp4" />
+    <Content Include="Assets\videos\angrybirds2.mp4" />
+    <Content Include="Assets\videos\asphalt8airborne.mp4" />
+    <Content Include="Assets\videos\asphalt9legends.mp4" />
+    <Content Include="Assets\videos\callofdutyblackops.mp4" />
+    <Content Include="Assets\videos\callofdutyinfinitewarfare.mp4" />
+    <Content Include="Assets\videos\candycrushjelly.mp4" />
+    <Content Include="Assets\videos\candycrushsoda.mp4" />
+    <Content Include="Assets\videos\chessultra.mp4" />
+    <Content Include="Assets\videos\csrracing.mp4" />
+    <Content Include="Assets\videos\csrracing2.mp4" />
+    <Content Include="Assets\videos\dreamleaguesoccer2019.mp4" />
+    <Content Include="Assets\videos\episode.mp4" />
+    <Content Include="Assets\videos\fifa18.mp4" />
+    <Content Include="Assets\videos\fifa19.mp4" />
+    <Content Include="Assets\videos\fifa20.mp4" />
+    <Content Include="Assets\videos\fruitninja.mp4" />
+    <Content Include="Assets\videos\gta5.mp4" />
+    <Content Include="Assets\videos\gtasa.mp4" />
+    <Content Include="Assets\videos\gtavicecity.mp4" />
+    <Content Include="Assets\videos\matatu.mp4" />
+    <Content Include="Assets\videos\minecraft.mp4" />
+    <Content Include="Assets\videos\nba2k18.mp4" />
+    <Content Include="Assets\videos\nba2k19.mp4" />
+    <Content Include="Assets\videos\needforspeed2019.mp4" />
+    <Content Include="Assets\videos\needforspeedmostwanted.mp4" />
+    <Content Include="Assets\videos\needforspeedpayback.mp4" />
+    <Content Include="Assets\videos\needforspeedtherun.mp4" />
+    <Content Include="Assets\videos\pes18.mp4" />
+    <Content Include="Assets\videos\ragingthunder.mp4" />
+    <Content Include="Assets\videos\ragingthunder2.mp4" />
+    <Content Include="Assets\videos\scrabble.mp4" />
+    <Content Include="Assets\videos\spidersolitaire.mp4" />
+    <Content Include="Assets\videos\subwaysurfers.mp4" />
+    <Content Include="Assets\videos\templerun.mp4" />
+    <Content Include="Assets\videos\xboxvideo.mp4" />
+    <Content Include="Assets\Wide310x150Logo.scale-100.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-125.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-150.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-400.png" />
+    <Content Include="Assets\xbox-logo-red.png" />
+    <Content Include="Assets\XBOXGames.png" />
+    <Content Include="Properties\Default.rd.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="AllGames.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\8BallPool.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\AngryBirds2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\Asphalt8Airborne.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\Asphalt9Legends.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\CallOfDutyBlackOps.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\CallOfDutyInfiniteWarfare.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\CandyCrushJelly.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\CandyCrushSoda.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\ChessUltra.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\CSRRacing.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\CSRRacing2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\DreamLeagueSoccer2019.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\Episode.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\FIFA18.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\FIFA19.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\FIFA20.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\FruitNinja.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\GTA5.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\GTASanAndreas.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\GTAViceCity.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\Matatu.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\MineCraft.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\NBA2K18.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\NBA2K19.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\NeedForSpeed2019.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\NeedForSpeedMostWanted.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\NeedForSpeedPayback.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\NeedForSpeedTheRun.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\PES18.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\RagingThunder.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\RagingThunder2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\Scrabble.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\SpiderSolitaire.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\SubwaySurfers.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Games\TempleRun.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
+      <Version>6.2.12</Version>
+    </PackageReference>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
+    <VisualStudioVersion>14.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
